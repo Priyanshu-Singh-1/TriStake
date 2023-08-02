@@ -2,7 +2,7 @@
 Total Stake Counter application that allows users to track the total stake for three different blockchain networks: Cardano, Polkadot, and Kusama.
 
 ## Introduction
-Welcome to TriStake Monitor, an innovative web app that will show you what's going on with staking on various blockchain networks in real time. 
+Welcome to TriStake Monitor, an innovative web app that will show you what's going on with staking on various blockchain networks in real-time. 
 This literature will explain the project's technology stack, how to build and run it locally, the project's most important features, 
 and where to find more information.
 
@@ -50,3 +50,6 @@ https://koios.rest/guide/examples/javascript.html#examples
 
 
 https://ant.design/components/overview/
+
+#### Note:
+It was a very fun and challenging task. This was the first time where I had learned so many things and developed a product within a day. Though I have worked with some limitations, but this was best learning part with this task. Also, this was the first time for me to learn about the chains that works on Proof of Stake. This is also a very beautiful concept, and this was a very much awesome journey.
