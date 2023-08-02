@@ -16,6 +16,9 @@ ReactStake Monitor uses cutting-edge technology to make a strong analysis tool f
 
  - **Ant Design**: Ant Design is a flexible design system and component library that is used to make user interface parts that look good and work well.
 
+## High-Level Design for TriStake
+![HLD](https://github.com/Priyanshu-Singh-1/TriStake/assets/107169043/ad3ccff2-f9ed-4a46-9c3d-989fa82dc9a9)
+
 ## How to Build Locally
 
  - Clone the repository:
